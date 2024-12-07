@@ -2,6 +2,8 @@
 
 Curato Mod Manager (CMM) - A Windows Application for Simplified Game Mod Management
 
+<img src="ImagesSrc/CMM.png" alt="Alt text" width="60%">
+
 **Overview:**\
 The **Curato Mod Manager (CMM)** is a Windows desktop application designed to simplify the management and customization of game mods for users. It provides an intuitive graphical user interface (GUI) that allows users to configure game settings, manage mod directories, and handle secure configurations like passwords, all stored in the Windows Registry.
 
@@ -52,3 +54,5 @@ The **Curato Mod Manager (CMM)** includes a powerful **Download Feature** de
 
 -   Validates XML structure and remote endpoint responses for accuracy and integrity.
 -   Ensures fallback mechanisms for scenarios where files or remote services are unavailable.
+
+  <a href="https://www.buymeacoffee.com/CurtisFeatures" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
