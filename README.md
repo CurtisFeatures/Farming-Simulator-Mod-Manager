@@ -4,7 +4,11 @@ Curato Mod Manager (CMM) - A Windows Application for Simplified Game Mod Managem
 
 <img src="ImagesSrc/CMM.png" alt="Alt text" width="60%">
 
-**Overview:**\
+[Option Overview](https://github.com/CurtisFeatures/Farming-Simulator-Mod-Manager/blob/main/Overview.md)
+\
+[User Guide](https://github.com/CurtisFeatures/Farming-Simulator-Mod-Manager/blob/main/Guide.md)
+
+**Project Overview:**\
 The **Curato Mod Manager (CMM)** is a Windows desktop application designed to simplify the management and customization of game mods for users. It provides an intuitive graphical user interface (GUI) that allows users to configure game settings, manage mod directories, and handle secure configurations like passwords, all stored in the Windows Registry.
 
 The tool supports multiple game configurations, integrates with remote JSON services for dynamic updates.
