@@ -8,7 +8,7 @@
 -   **Antivirus Alerts**: Some antivirus software may flag the file because it interacts with the system registry to store data. This is a false positive---add an exception in your antivirus to avoid disruptions.
 -   **First Launch**: On a new setup or computer, the app interface will appear as shown below. The **default mod folder**path should automatically populate.
 
-  <img src="ImagesSrc/CMM.png" alt="Alt text" width="50%">
+  <img src="ImagesSrc/CMMNEW.png" alt="Alt text" width="50%">
 
 * * * * *
 
