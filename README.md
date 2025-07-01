@@ -2,7 +2,7 @@
 
 Curato Mod Manager (CMM) - A Windows Application for Simplified Game Mod Management 
 
-<img src="ImagesSrc/CMM.png" alt="Alt text" width="60%">
+<img src="ImagesSrc/CMMNEW.png" alt="Alt text" width="60%">
 
 [Option Overview](https://github.com/CurtisFeatures/Farming-Simulator-Mod-Manager/blob/main/Overview.md)
 \
