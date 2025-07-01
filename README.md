@@ -1,6 +1,6 @@
 # Farming-Simulator-Mod-Manager
 
-Curato Mod Manager (CMM) - A Windows Application for Simplified Game Mod Management
+Curato Mod Manager (CMM) - A Windows Application for Simplified Game Mod Management 
 
 <img src="ImagesSrc/CMM.png" alt="Alt text" width="60%">
 
